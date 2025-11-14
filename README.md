@@ -29,3 +29,4 @@ To run this script, you need to have Python installed. You also need the `pynput
 
 3.  **View Logs:**
     Key presses will be logged to a file named `keylog.txt` in the same directory where the script is run.
+# Keylogger
